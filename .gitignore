@@ -1,0 +1,4 @@
+datasets/training/
+datasets/test/
+env/
+output*
